@@ -1,1 +1,1 @@
-Trees form clean alignments
+Trees from clean alignments
