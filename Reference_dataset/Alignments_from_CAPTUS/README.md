@@ -1,0 +1,1 @@
+Raw alignments from CAPTUS
